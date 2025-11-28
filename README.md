@@ -1,7 +1,5 @@
 # Hi 👋, I'm JustANormalArcticFox
 
-### A budding Html developer
-
 
 - Website **[https://msha.ke/justanormalarcticfox](https://msha.ke/justanormalarcticfox)**
 
